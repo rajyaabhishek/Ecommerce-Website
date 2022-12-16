@@ -1,0 +1,40 @@
+td,th {
+	font-family: monospace;
+	padding: 4px;
+	background-color: #ccc;
+}
+
+label {
+	vertical-align: top;
+}
+
+#memi{
+	text-align: center;
+	color:green;
+}
+
+#nemi{
+	text-align: center;
+	font-size: 20px;
+}
+#main {
+	border: 1px solid greenyellow;
+	padding: 6px;
+	background-color: #ccc;
+	margin-right: 60px;
+	margin-left:60px;
+}
+
+#items_table {
+	border: 1px solid greenyellow;
+	padding: 6px;
+	margin-top: 12px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+
+#items_table h3 {
+	font-size: 18px;
+	margin-top: 0px;
+	font-family: sans-serif;
+}
